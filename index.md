@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: default
 ---
 
 # Simple dark theme
